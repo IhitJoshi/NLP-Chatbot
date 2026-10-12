@@ -1,0 +1,147 @@
+{
+    "intents": [
+        {
+            "intent": "greeting",
+            "examples": [
+                "Hello",
+                "Hi there",
+                "Good morning",
+                "Hey",
+                "Hi, how are you?",
+                "Good afternoon",
+                "Good evening",
+                "What's up?",
+                "Greetings",
+                "Hello there",
+                "Hey, can you help me?",
+                "Hi, I need some information"
+            ]
+        },
+        {
+            "intent": "goodbye",
+            "examples": [
+                "Bye",
+                "Goodbye",
+                "See you later",
+                "Thanks, goodbye",
+                "Bye bye",
+                "See you soon",
+                "Take care",
+                "Have a nice day",
+                "Thank you, bye",
+                "That's all, goodbye",
+                "I'm done, thanks",
+                "Okay bye"
+            ]
+        },
+        {
+            "intent": "location",
+            "examples": [
+                "Where is the college located?",
+                "Which city is the college in?",
+                "Tell me the location of the institute",
+                "Where is the campus?",
+                "What is the address of the college?",
+                "Can you tell me where the college is?",
+                "In which city is the institute situated?",
+                "Where can I find the college?",
+                "What is the college address?",
+                "Tell me the campus location",
+                "Where is Vidya Vihar Institute located?",
+                "How do I reach the college?",
+                "Give me directions to the college"
+            ]
+        },
+        {
+            "intent": "timing",
+            "examples": [
+                "What are the college hours?",
+                "When does college start?",
+                "What time do classes begin?",
+                "When are classes conducted?",
+                "Tell me the college timings",
+                "What is the schedule of the college?",
+                "When does the first class start?",
+                "What time does college end?",
+                "How long are the college hours?",
+                "Tell me the working hours of the college",
+                "What are the class timings?",
+                "From what time to what time is the college open?",
+                "When do lectures start and end?"
+            ]
+        },
+        {
+            "intent": "courses",
+            "examples": [
+                "What courses are offered?",
+                "Which programs are available?",
+                "Tell me about the courses",
+                "What can I study here?",
+                "What branches are available?",
+                "Which engineering branches does the college offer?",
+                "What are the available programs?",
+                "Do you offer computer science?",
+                "Tell me about the departments",
+                "What subjects can I take?",
+                "List the courses offered by the college",
+                "What degree programs are available?",
+                "Which streams does the institute have?"
+            ]
+        },
+        {
+            "intent": "admission",
+            "examples": [
+                "How do I apply for admission?",
+                "What is the admission process?",
+                "Tell me about the admission procedure",
+                "How can I get admitted?",
+                "What are the eligibility criteria?",
+                "When does admission start?",
+                "What documents are needed for admission?",
+                "How to apply to this college?",
+                "Tell me the admission requirements",
+                "What is the process to enroll?",
+                "Is admission open right now?",
+                "How do I register for admission?",
+                "What are the steps for admission?"
+            ]
+        },
+        {
+            "intent": "library",
+            "examples": [
+                "Tell me about the library",
+                "What are the library timings?",
+                "How many books does the library have?",
+                "When is the library open?",
+                "Does the college have a library?",
+                "Can I borrow books from the library?",
+                "What facilities does the library offer?",
+                "Tell me the library hours",
+                "Is there a digital library?",
+                "How big is the college library?",
+                "What resources are available in the library?",
+                "Does the library have journals and magazines?"
+            ]
+        },
+        {
+            "intent": "facilities",
+            "examples": [
+                "What facilities does the college have?",
+                "Does the college have a sports ground?",
+                "Tell me about the campus facilities",
+                "Is there a canteen in the college?",
+                "Does the college have a computer lab?",
+                "What amenities are available on campus?",
+                "Is there a hostel facility?",
+                "Does the college have Wi-Fi?",
+                "Tell me about the infrastructure",
+                "What labs are available?",
+                "Does the campus have parking?",
+                "Are there any recreational facilities?",
+                "What extracurricular facilities are available?",
+                "Does the campus have a gymnasium?",
+                "Is there a sports complex or playground?"
+            ]
+        }
+    ]
+}

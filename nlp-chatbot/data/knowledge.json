@@ -1,0 +1,17 @@
+{
+    "greeting": "Hello! Welcome to the Vidya Vihar Institute of Technology helpdesk. How can I help you today?",
+
+    "goodbye": "Thank you for visiting! Have a great day. Feel free to come back if you have more questions.",
+
+    "location": "Vidya Vihar Institute of Technology is located on Science City Road, Ahmedabad, Gujarat 380060. The campus is easily accessible by public transport and is about 15 minutes from the Ahmedabad railway station.",
+
+    "timing": "College classes are conducted from 9:00 AM to 4:00 PM, Monday to Friday. Saturday classes are held from 9:00 AM to 1:00 PM for labs and tutorials. The campus remains closed on Sundays and public holidays.",
+
+    "courses": "The institute offers undergraduate programs including B.Tech in Computer Science, Electrical Engineering, Mechanical Engineering, Civil Engineering, and Electronics and Communication. Postgraduate programs include M.Tech in Computer Science and Electrical Engineering. The college also offers a diploma program in various engineering disciplines.",
+
+    "admission": "Admissions are conducted through the ACPC (Admission Committee for Professional Courses) centralized counseling process. Students must have passed 12th standard with Physics, Chemistry, and Mathematics. Admission is based on JEE Main scores or the GUJCET entrance exam. The admission window typically opens in June every year. Visit the college admission office or the official website for the current year's details.",
+
+    "library": "The college library contains more than 15,000 books covering all engineering disciplines. It also has subscriptions to over 50 national and international journals. The library is open from 8:00 AM to 8:00 PM on weekdays and 9:00 AM to 5:00 PM on Saturdays. Students can borrow up to 3 books at a time for a period of 14 days. A digital library section with online databases is also available.",
+
+    "facilities": "The campus offers a wide range of facilities including modern computer labs with high-speed internet, well-equipped science and engineering laboratories, a canteen serving affordable meals, a sports ground for cricket and football, indoor games room, seminar halls, a workshop area, and free Wi-Fi across the campus. Hostel facilities are available for both boys and girls with 24/7 security."
+}
